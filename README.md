@@ -1,5 +1,5 @@
 # iowa_liquor
-Multi-faceted Analysis of Iowa liquor sales, 2018-2022 (Python)
+Multi-faceted analysis of Iowa liquor sales, 2018-2022 (Python)
 
 ### Project Brief
 Looking at sales geographically and over time, searching for seasonal trends, economic recovery post-pandemic, and what products are performing the best/worst.   
@@ -36,6 +36,15 @@ Clustering & Analysis
 Time Series Analysis (Daily)   
 Time Series Analysis (Monthly)   
 Time Series Forecasting   
+
+### Procedures Conducted Outside Python   
+Verified no duplicate extracted addresses (Excel)   
+Added state column prepping for latitude/longitude importing (Excel)   
+Cleaned unnecessary information from address column, notated row and what was (temporarily) removed (Excel)   
+Uploaded spreadsheet to Geocodio to get latitude/longitude data (Geocodio)   
+Saved original Geocodio csv with all data (including accuracy and source)   
+Removed unnecessary columns that don't need to be appended into dataset (Excel)   
+Saved revised csv as iowa_data_lats_longs   
 
 ### Final Presentation
 Tableau Story: https://public.tableau.com/shared/GFQPYBBJW?:display_count=n&:origin=viz_share_link
