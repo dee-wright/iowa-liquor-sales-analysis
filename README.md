@@ -20,9 +20,9 @@ Are there seasonal trends to liquor purchases in the state?
 Are there any locations that have purchases beyond what their population would suggest?    
 
 ### Datasets
-Liquor Sales Data, accessed from the Iowa Open Data Platform, https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy on 11/18/2023   
-Iowa County Population Data, accessed from the US Census Bureau, https://www.census.gov/data/datasets/time-series/demo/popest/2020s-counties-total.html on 11/24/2023   
-Geospatial Data, accessed from Iowa Geospatial Data, https://geodata.iowa.gov/datasets/8a1c2d500d8847d79aa47d45d44eb133_0/explore on 11/25/2023
+[Liquor Sales Data](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy), accessed from the Iowa Open Data Platform on 11/18/2023   
+[Iowa County Population Data](https://www.census.gov/data/datasets/time-series/demo/popest/2020s-counties-total.html), accessed from the US Census Bureau on 11/24/2023   
+[Geospatial Data](https://geodata.iowa.gov/datasets/8a1c2d500d8847d79aa47d45d44eb133_0/explore), accessed from Iowa Geospatial Data on 11/25/2023
 
 ### Scripts
 Filtering Dataset to the Scope of the Project   
@@ -47,5 +47,5 @@ Removed unnecessary columns that don't need to be appended into dataset (Excel)
 Saved revised csv as iowa_data_lats_longs   
 
 ### Final Presentation
-Tableau Story: https://public.tableau.com/shared/GFQPYBBJW?:display_count=n&:origin=viz_share_link
-Case Study: https://sway.office.com/yueqcrJi38Lr4JXE?ref=Link
+[Tableau Story](https://public.tableau.com/app/profile/therightwright/viz/IowaLiquorSalesAnalysis_17022462743500/IowaLiquorSalesAnalysis2018-2022)       
+[Case Study](https://sway.office.com/yueqcrJi38Lr4JXE?ref=Link)
