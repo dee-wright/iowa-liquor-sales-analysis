@@ -1,4 +1,4 @@
-![Header](./ILHeader.jpg)
+![Header](./assets/ILHeader.jpg)
 
 ![Static Badge](https://img.shields.io/badge/rows_of_data_analyzed-12%2C523%2C335-red?color=D93F07)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/dee-wright/iowa_liquor?color=D97D0D)
@@ -92,8 +92,8 @@ A more in-depth analysis of the lowest performing products (for example, if they
 
 ### Final Presentation
 [Full Tableau Presentation](https://public.tableau.com/app/profile/therightwright/viz/IowaLiquorSalesAnalysis_17022462743500/IowaLiquorSalesAnalysis2018-2022)   
-![Header](./ILTableauPreview.jpg)     
-![Header](./ILTableauPreview2.jpg)
+![Header](./assets/ILTableauPreview.jpg)     
+![Header](./assets/ILTableauPreview2.jpg)
 
 # Acknowledgments/References
 Header photo by [CHUTTERSNAP](https://unsplash.com/@chuttersnap?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/close-up-photo-of-liquor-bottles-in-rack-9UD0JHnWyVE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
