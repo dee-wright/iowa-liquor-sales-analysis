@@ -22,12 +22,13 @@ I analyzed overall sales, vendor performance, sales by location, and product per
 ### Overall Sales Analysis
 **Year over Year:** Sales have grown year over year, with the biggest jump (13.59%) during the pandemic. Sales growth leveled out from 2021 to 2022 (which saw a growth of only 0.15%), but they held level at approximately $430m a year, rather than dropping.    
 
-![image](https://github.com/user-attachments/assets/814b0072-c401-4e86-a0c4-6491e935342a)
+![image](https://github.com/user-attachments/assets/7107a29f-ea62-4f85-a51f-25681ab7636c)
+
 
 **Seasonality:** There are always spikes in October and December, followed by a large drop in January.   
 
-![image](https://github.com/user-attachments/assets/1bfa0bf7-fb8d-49ef-a204-b8f9679a221d)   
-![image](https://github.com/user-attachments/assets/ecb8451d-dfcf-4f17-966c-a498bbc3acfa)
+![image](https://github.com/user-attachments/assets/7426c5cc-5eaa-46d4-8566-c69d2566d535)     
+![image](https://github.com/user-attachments/assets/696ec626-4dd4-4547-be29-3ad99b147d6f)
 
 **Vendor Analysis:** by vendor
 
