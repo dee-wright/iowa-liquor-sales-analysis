@@ -20,10 +20,12 @@ I analyzed overall sales, vendor performance, sales by location, and product per
 
 ## Summary of Insights
 ### Overall Sales Analysis
-**Year over Year:** Sales have grown year over year, with the biggest jump (13.59%) during the pandemic. Sales growth leveled out from 2021 to 2022 (which saw a growth of only 0.15%), but they held level at approximately $430m a year, rather than dropping. 
+**Year over Year:** Sales have grown year over year, with the biggest jump (13.59%) during the pandemic. Sales growth leveled out from 2021 to 2022 (which saw a growth of only 0.15%), but they held level at approximately $430m a year, rather than dropping.    
+
 ![image](https://github.com/user-attachments/assets/814b0072-c401-4e86-a0c4-6491e935342a)
 
-**Seasonality:** There are always spikes in October and December, followed by a large drop in January. 
+**Seasonality:** There are always spikes in October and December, followed by a large drop in January.   
+
 ![image](https://github.com/user-attachments/assets/1bfa0bf7-fb8d-49ef-a204-b8f9679a221d)   
 ![image](https://github.com/user-attachments/assets/ecb8451d-dfcf-4f17-966c-a498bbc3acfa)
 
@@ -37,7 +39,8 @@ I analyzed overall sales, vendor performance, sales by location, and product per
 so what exactly are we saying here lmao
 
 ### Sales Forecasting
-The sales forecast shows a continuing upward trend, and examining our annual sales peaks, predicts October sales of $44 million, and December sales of $45.4 million. 
+The sales forecast shows a continuing upward trend, and examining our annual sales peaks, predicts October sales of $44 million, and December sales of $45.4 million.   
+
 ![image](https://github.com/user-attachments/assets/5acfd0d4-af88-4fc3-88d7-5401c888ff33)
 
 ## Recommendations & Next Steps
