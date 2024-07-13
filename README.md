@@ -20,7 +20,6 @@ I analyzed overall sales, vendor performance, sales by location, and product per
 
 ## Summary of Insights
 ### Overall Sales Analysis
-From 2018 to 2022, 
 **Year over Year:** Sales have grown year over year, with the biggest jump (13.59%) during the pandemic. Sales growth leveled out from 2021 to 2022 (which saw a growth of only 0.15%), but they held level at approximately $430m a year, rather than dropping. 
 ![image](https://github.com/user-attachments/assets/814b0072-c401-4e86-a0c4-6491e935342a)
 
