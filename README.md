@@ -5,24 +5,30 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/dee-wright/iowa_liquor?color=D96B0B)
 
 
-# Iowa Liquor Sales Analysis (2018-2022)
-Geospatial and time-series analysis of sales data, searching for seasonal trends, economic recovery post-pandemic, and top/bottom performing products. 
+# Liquor Sales Analysis (2018-2022)
+The state is the wholesaler for class E liquor retailers. All alcoholic beverages stocked by class E liquor retailers must be purchased through the state Alcoholic Beverages Department (ABD) portal.
 
 ## Stakeholders
 <ul><b>Marketing Team:</b> What products are sliding in popularity? What inventory has been sitting on the shelves? What are the best times and locations to run promotions?</ul> 
 <ul><b>Inventory Management:</b> When are the largest purchases made? What products are not worth the cost of keeping on hand?</ul>
 <ul><b>Sales Operations:</b> Where are our highest and lowest sales? Have sales recovered to pre-pandemic levels? If not, when is that estimated to happen?</ul>
 
-## Prep
-After filtering the data to the years I needed (2018-2022), I investigated the dataset and discovered a number of null values for store location (latitude, longitude), county number (the FIPS number), categories, and addresses. I extracted the addresses into one CSV and the categories into another CSV, and found the missing data within the main dataset (rows with missing addresses had the store name, and rows with the missing category had the item number and description, allowing me to reverse-engineer the missing data from the dataset). Once that was done, I pulled the latitude and longitude for each store from Geocodio, and obtained the county FIPS information (and population) from the US Census Bureau Iowa data. With that added, my dataset was complete for all further analysis. 
+## Overview
+Between 2018 and 2022, 12.5 million orders were placed with the state Alcoholic Beverages Department, for a total of $1.9 trillion in sales. 
+
+I analyzed overall sales, vendor performance, sales by location, and product performance to provide insights and recommendations to cross-functional departments (marketing, sales, inventory management).
 
 ## Summary of Insights
 ### Overall Sales Analysis
-**Year over Year:**
+From 2018 to 2022, 
+**Year over Year:** Sales have grown year over year, with the biggest jump (13.59%) during the pandemic. Sales growth leveled out from 2021 to 2022 (which saw a growth of only 0.15%), but they held level at approximately $430m a year, rather than dropping. 
+![image](https://github.com/user-attachments/assets/814b0072-c401-4e86-a0c4-6491e935342a)
 
-**Seasonality:** (This revealed seasonal trends (there are always spikes in October and December, and there's always a big dip in January))
+**Seasonality:** There are always spikes in October and December, followed by a large drop in January. 
+![image](https://github.com/user-attachments/assets/1bfa0bf7-fb8d-49ef-a204-b8f9679a221d)   
+![image](https://github.com/user-attachments/assets/ecb8451d-dfcf-4f17-966c-a498bbc3acfa)
 
-**Product Analysis:** by vendor
+**Vendor Analysis:** by vendor
 
 **Geospatial Analysis:** (bestsellers per county) - can this bring in choropleths?? county distribution
 
@@ -32,7 +38,8 @@ After filtering the data to the years I needed (2018-2022), I investigated the d
 so what exactly are we saying here lmao
 
 ### Sales Forecasting
-include holt winter GRAPH, explain results for NON TECHNICAL AUDIENCE. 
+The sales forecast shows a continuing upward trend, and examining our annual sales peaks, predicts October sales of $44 million, and December sales of $45.4 million. 
+![image](https://github.com/user-attachments/assets/5acfd0d4-af88-4fc3-88d7-5401c888ff33)
 
 ## Recommendations & Next Steps
 The forecasting is showing sales continuing to rise; when 2023 is over, it's essential to check the modeling with the actual data to see if the model is correct or needs to be adjusted. 
@@ -44,7 +51,10 @@ A more in-depth analysis of the lowest performing products (for example, if they
 ![Header](./assets/ILTableauPreview.jpg)     
 ![Header](./assets/ILTableauPreview2.jpg)
 
-## Technical Information (Setup & Data)
+## APPENDIX - Technical Information (Setup & Data)
+### Prep
+After filtering the data to the years I needed (2018-2022), I investigated the dataset and discovered a number of null values for store location (latitude, longitude), county number (the FIPS number), categories, and addresses. I extracted the addresses into one CSV and the categories into another CSV, and found the missing data within the main dataset (rows with missing addresses had the store name, and rows with the missing category had the item number and description, allowing me to reverse-engineer the missing data from the dataset). Once that was done, I pulled the latitude and longitude for each store from Geocodio, and obtained the county FIPS information (and population) from the US Census Bureau Iowa data. With that added, my dataset was complete for all further analysis. 
+
 ### Codes & Resources Used
 <ul><b>Editor Used:</b> Jupyter Notebook</ul>
 <ul><b>Python Version:</b> 2.7 </ul>
@@ -80,7 +90,7 @@ Regression Analysis
 Clustering & Analysis   
 Time Series Analysis (Daily)   
 Time Series Analysis (Monthly)   
-Time Series Forecasting 
+Time Series Forecasting (Simple, Holt's Linear, Holt-Winter Exponential)
 
 # Acknowledgments/References
 Header photo by [CHUTTERSNAP](https://unsplash.com/@chuttersnap?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/close-up-photo-of-liquor-bottles-in-rack-9UD0JHnWyVE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
