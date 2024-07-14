@@ -47,7 +47,7 @@ so what exactly are we saying here lmao
 ### Sales Forecasting
 The sales forecast shows a continuing upward trend, and examining our annual sales peaks, predicts October sales of $44 million, and December sales of $45.4 million.   
 
-![image](https://github.com/user-attachments/assets/5acfd0d4-af88-4fc3-88d7-5401c888ff33)
+![image](https://github.com/user-attachments/assets/ab604652-6b4d-420c-ab79-fe682e66b209)
 
 ## Recommendations & Next Steps
 The forecasting is showing sales continuing to rise; when 2023 is over, it's essential to check the modeling with the actual data to see if the model is correct or needs to be adjusted. 
