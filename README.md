@@ -31,10 +31,10 @@ I analyzed overall sales, vendor performance, sales by location, and product per
 
 **Vendor Analysis:** Diageo Americas is our top vendor, with total sales of [ ]. Its top products include [ ]. On the other end of the scale, our lowest-selling vendor is [ ], with total sales of [ ].      
 
-![image](https://github.com/user-attachments/assets/0d33baaf-2fd3-4d25-82c4-a62846b0548b)
-[diageo americas products]
-[low sellers]
-[lowest selling products]
+![image](https://github.com/user-attachments/assets/0d33baaf-2fd3-4d25-82c4-a62846b0548b)   
+[diageo americas products]   
+[low sellers]   
+[lowest selling products]   
 
 **Geospatial Analysis:** (bestsellers per county) - can this bring in choropleths?? county distribution
 
