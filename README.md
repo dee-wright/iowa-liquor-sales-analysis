@@ -26,7 +26,8 @@ I analyzed overall sales, vendor performance, sales by location, and product per
 
 **Seasonality:** There are always spikes in October and December, followed by a large drop in January.   
 
-![image](https://github.com/user-attachments/assets/6c59db55-adae-47ee-938a-c3e53398e077)       
+![image](https://github.com/user-attachments/assets/6c59db55-adae-47ee-938a-c3e53398e077)   
+
 ![image](https://github.com/user-attachments/assets/b9f47ea7-8bb0-47ea-b118-b51a445d942d)
 
 **Vendor Analysis:** Diageo Americas is our top vendor, with total sales of [ ]. Its top products include [ ]. On the other end of the scale, our lowest-selling vendor is [ ], with total sales of [ ].      
