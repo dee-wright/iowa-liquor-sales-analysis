@@ -37,11 +37,9 @@ I analyzed overall sales, vendor performance, sales by location, and product per
    
 [lowest selling products]   
 
-**Geospatial Analysis:** (bestsellers per county) - can this bring in choropleths?? county distribution
+**Geospatial Analysis:** Sales are highest in the highest-population county, but that trend does not continue throughout all high-population counties. It is possible that people in the counties surrounding Polk come to Polk County to buy their alcohol.    
 
-![image](https://github.com/user-attachments/assets/3e68fbc3-4ff4-4b0e-a86c-b018f3441525) ![image](https://github.com/user-attachments/assets/1d618c89-8837-42a7-915b-1a6cb4449300)
-
-
+![image](https://github.com/user-attachments/assets/cb3a1a09-3b44-4a9f-b46f-98e7385ce06d)
 
 **Multiple Regression Analysis:** of sale dollars by bottles sold (understandably, the more bottles sold, the greater the sale dollars) and sale dollars by state bottle cost (while a more expensive bottle does affect the bottom line, you sell more of the affordably priced offerings and therefore their influence on the final total is greater)
 
