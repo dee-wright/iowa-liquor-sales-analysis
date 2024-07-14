@@ -37,7 +37,7 @@ I analyzed overall sales, vendor performance, sales by location, and product per
    
 [lowest selling products]   
 
-**Geospatial Analysis:** Sales are highest in the highest-population county, but that trend does not continue throughout all high-population counties. It is possible that people in the counties surrounding Polk come to Polk County to buy their alcohol.    
+**Geospatial Analysis:** Sales are highest in the highest-population county (Polk, with total sales of $450 million), and the top 10 counties population-wise are the top 10 counties for total sales. However, Pottawattamie County is 10th in population and 6th in total sales, and Dallas County is 7th in population and 10th in total sales.
 
 ![image](https://github.com/user-attachments/assets/cb3a1a09-3b44-4a9f-b46f-98e7385ce06d)
 
