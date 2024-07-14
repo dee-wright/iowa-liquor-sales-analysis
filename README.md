@@ -14,7 +14,7 @@ The state is the wholesaler for class E liquor retailers. All alcoholic beverage
 <ul><b>Sales Operations:</b> Where are our highest and lowest sales? Have sales recovered to pre-pandemic levels? If not, when is that estimated to happen?</ul>
 
 ## Overview
-Between 2018 and 2022, 12.5 million orders were placed with the state Alcoholic Beverages Department, for a total of $1.9 trillion in sales. 
+Between 2018 and 2022, 12.5 million orders were placed with the state Alcoholic Beverages Department, for a total of $1.9 billion in sales. These orders were placed by 2,389 stores in 100 counties, from an inventory of 8,117 products from 375 vendors. 
 
 I analyzed overall sales, vendor performance, sales by location, and product performance to provide insights and recommendations to cross-functional departments (marketing, sales, inventory management).
 
@@ -38,6 +38,10 @@ I analyzed overall sales, vendor performance, sales by location, and product per
 [lowest selling products]   
 
 **Geospatial Analysis:** (bestsellers per county) - can this bring in choropleths?? county distribution
+
+![image](https://github.com/user-attachments/assets/3e68fbc3-4ff4-4b0e-a86c-b018f3441525) ![image](https://github.com/user-attachments/assets/1d618c89-8837-42a7-915b-1a6cb4449300)
+
+
 
 **Multiple Regression Analysis:** of sale dollars by bottles sold (understandably, the more bottles sold, the greater the sale dollars) and sale dollars by state bottle cost (while a more expensive bottle does affect the bottom line, you sell more of the affordably priced offerings and therefore their influence on the final total is greater)
 
