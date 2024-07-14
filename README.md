@@ -22,14 +22,19 @@ I analyzed overall sales, vendor performance, sales by location, and product per
 ### Overall Sales Analysis
 **Year over Year:** Sales have grown year over year, with the biggest jump (13.59%) during the pandemic. Sales growth leveled out from 2021 to 2022 (which saw a growth of only 0.15%), but they held level at approximately $430m a year, rather than dropping.    
 
-![image](https://github.com/user-attachments/assets/0567f596-f038-4dc3-98cf-8074f00c51e0)
+![image](https://github.com/user-attachments/assets/759f672b-01f1-4388-a85b-49f76265f649)
 
 **Seasonality:** There are always spikes in October and December, followed by a large drop in January.   
 
-![image](https://github.com/user-attachments/assets/7426c5cc-5eaa-46d4-8566-c69d2566d535)     
-![image](https://github.com/user-attachments/assets/696ec626-4dd4-4547-be29-3ad99b147d6f)
+![image](https://github.com/user-attachments/assets/6c59db55-adae-47ee-938a-c3e53398e077)       
+![image](https://github.com/user-attachments/assets/b9f47ea7-8bb0-47ea-b118-b51a445d942d)
 
-**Vendor Analysis:** by vendor
+**Vendor Analysis:** Diageo Americas is our top vendor, with total sales of [ ]. Its top products include [ ]. On the other end of the scale, our lowest-selling vendor is [ ], with total sales of [ ].   
+
+![image](https://github.com/user-attachments/assets/0d33baaf-2fd3-4d25-82c4-a62846b0548b)
+[diageo americas products]
+[low sellers]
+[lowest selling products]
 
 **Geospatial Analysis:** (bestsellers per county) - can this bring in choropleths?? county distribution
 
