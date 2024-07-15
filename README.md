@@ -30,37 +30,43 @@ I analyzed overall sales, vendor performance, sales by location, and product per
 
 ![image](https://github.com/user-attachments/assets/b9f47ea7-8bb0-47ea-b118-b51a445d942d)
 
-**Vendor Analysis:** Diageo Americas is our top vendor, with total sales of [ ]. Its top products include [ ]. On the other end of the scale, our lowest-selling vendor is [ ], with total sales of [ ].      
+**Vendor Analysis:** Diageo Americas is our top vendor, with total sales of $394 million. Its top products include Tito's Handmade Vodka, Crown Royal, Jack Daniels, and Captain Morgan. On the other end of the scale, our lowest-selling vendor is Puente International, with total sales of less than $100. Of our bottom 10 vendors, none of them sold more than $200 worth of merchandise.       
 
 ![image](https://github.com/user-attachments/assets/ac51dfde-da02-4393-be4c-116b7699daf8)   
-  
-  
-   
-[lowest selling products]   
+
+![image](https://github.com/user-attachments/assets/68ebab3e-2f41-425d-b4d7-cc6e471b54fc)
 
 **Geospatial Analysis:** Sales are highest in the highest-population county (Polk, with total sales of $450 million), and the top 10 counties population-wise are the top 10 counties for total sales. However, Pottawattamie County is 10th in population and 6th in total sales, and Dallas County is 7th in population and 10th in total sales.
 
 ![image](https://github.com/user-attachments/assets/cb3a1a09-3b44-4a9f-b46f-98e7385ce06d)
 
-**Multiple Regression Analysis:** of sale dollars by bottles sold (understandably, the more bottles sold, the greater the sale dollars) and sale dollars by state bottle cost (while a more expensive bottle does affect the bottom line, you sell more of the affordably priced offerings and therefore their influence on the final total is greater)
-
 ### K-Means Clustering
-so what exactly are we saying here lmao
+We used k-means clustering to identify eight distinct groups within the sales data (Cluster 0 through Cluster 7), allowing us to understand different customer segments. 
+
+![image](https://github.com/user-attachments/assets/fd73bd0f-0f79-4f6a-a3b4-bc73a530fc0b)
+
+Clusters 0 and 3 are large-population clusters with sub-average sales.   
+Clusters 2 and 4 small-population clusters with very high sales, likely in affluent areas
+Cluster 5 is a high population cluster with average sales. 
+Cluster 6 is a very small cluster with specific sales characteristics. 
+Cluster 7 is a smaller-population cluster with above-average sales, a small but high value area similiar to Cluster 2. 
 
 ### Sales Forecasting
 The sales forecast shows a continuing upward trend, and examining our annual sales peaks, predicts October sales of $44 million, and December sales of $45.4 million.   
 
 ![image](https://github.com/user-attachments/assets/ab604652-6b4d-420c-ab79-fe682e66b209)
 
-## Recommendations & Next Steps
+## Recommendations
+### Sales Forecasting
 The forecasting is showing sales continuing to rise; when 2023 is over, it's essential to check the modeling with the actual data to see if the model is correct or needs to be adjusted. 
 
-A more in-depth analysis of the lowest performing products (for example, if they are a large part of a county's sales, even if that county's sales are small in the overall picture) should be performed to see if they should be kept on hand or removed from the options available. 
+### Inventory Management
+Recommend a more in-depth analysis of the lowest performing products (for example, if they are a large part of a county's sales, even if that county's sales are small in the overall picture) should be performed to see if they should be kept on hand or removed from the options available. 
 
-## Final Presentation
-[Full Tableau Presentation](https://public.tableau.com/app/profile/therightwright/viz/IowaLiquorSalesAnalysis_17022462743500/IowaLiquorSalesAnalysis2018-2022)   
-![Header](./assets/ILTableauPreview.jpg)     
-![Header](./assets/ILTableauPreview2.jpg)
+### Marketing  
+*Cost-effective promotions and discount strategies* for Clusters 0 and 3   
+*Premium products and targeted marketing* for Clusters 2 and 4
+*Focusing on driving higher sales* with Cluster 5, as it is high population but only average sales and thus shows the most room for growth
 
 ## APPENDIX - Technical Information (Setup & Data)
 ### Prep
