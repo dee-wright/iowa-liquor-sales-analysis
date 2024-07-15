@@ -65,7 +65,7 @@ Recommend a more in-depth analysis of the lowest performing products (for exampl
 
 ### Marketing  
 *Cost-effective promotions and discount strategies* for Clusters 0 and 3   
-*Premium products and targeted marketing* for Clusters 2 and 4
+*Premium products and targeted marketing* for Clusters 2 and 4   
 *Focusing on driving higher sales* with Cluster 5, as it is high population but only average sales and thus shows the most room for growth
 
 ## APPENDIX - Technical Information (Setup & Data)
