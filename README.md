@@ -9,9 +9,9 @@
 The state is the wholesaler for class E liquor retailers. All alcoholic beverages stocked by class E liquor retailers must be purchased through the state Alcoholic Beverages Department (ABD) portal.
 
 ## Stakeholders
-<ul><b>Marketing Team:</b> What products are sliding in popularity? What inventory has been sitting on the shelves? What are the best times and locations to run promotions?</ul> 
-<ul><b>Inventory Management:</b> When are the largest purchases made? What products are not worth the cost of keeping on hand?</ul>
-<ul><b>Sales Operations:</b> Where are our highest and lowest sales? Have sales recovered to pre-pandemic levels? If not, when is that estimated to happen?</ul>
+Marketing Team     
+Inventory Management   
+Sales Operations   
 
 ## Overview
 Between 2018 and 2022, 12.5 million orders were placed with the state Alcoholic Beverages Department, for a total of $1.9 billion in sales. These orders were placed by 2,389 stores in 100 counties, from an inventory of 8,117 products from 375 vendors. 
