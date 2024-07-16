@@ -1,8 +1,8 @@
 ![Header](./assets/liquor_header.png)
 
 ![Static Badge](https://img.shields.io/badge/rows_of_data_analyzed-12%2C523%2C335-red?color=D93F07)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/dee-wright/liquor_sales_analysis?color=D97D0D)
-![GitHub repo size](https://img.shields.io/github/repo-size/dee-wright/liquor_sales_analysis?color=D96B0B)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/dee-wright/liquor-sales-analysis?color=D97D0D)
+![GitHub repo size](https://img.shields.io/github/repo-size/dee-wright/liquor-sales-analysis?color=D96B0B)
 
 
 # Liquor Sales Analysis (2018-2022)
