@@ -25,7 +25,7 @@ I analyzed overall sales, vendor performance, sales by location, and product per
 
 ![image](https://github.com/user-attachments/assets/b9f47ea7-8bb0-47ea-b118-b51a445d942d)
 
-**Vendor Analysis:** Diageo Americas is our top vendor, with total sales of $394 million. Its top products include Tito's Handmade Vodka, Crown Royal, Jack Daniels, and Captain Morgan. On the other end of the scale, our lowest-selling vendor is Puente International, with total sales of less than $100. Of our bottom 10 vendors, none of them sold more than $200 worth of merchandise.       
+**Vendor Analysis:** Diageo Americas is our top vendor, with total sales of $394 million. On the other end of the scale, our lowest-selling vendor is Puente International, with total sales of less than $100. Of our bottom 10 vendors, none of them sold more than $200 worth of merchandise.       
 
 ![image](https://github.com/user-attachments/assets/ac51dfde-da02-4393-be4c-116b7699daf8)   
 
